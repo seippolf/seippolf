@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @seippolf a computer science student at University of Arizona
 - 👀 I’m interested in automation, robotics, complex problem solving and more personally just puzzles in general
-- 🌱 I’m currently learning python, data structurs and web languages
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, data structures and web languages
 - 📫 You can reach me on twitter @seippolf or other platforms @justinmjoh
 
 <!---
