@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @seippolf a computer science student at University of Arizona
-- 👀 I’m interested in automation, robotics, complex problem solving and more personally just puzzles in general
-- 🌱 I’m currently learning python, data structures and web languages
-- 📫 You can reach me on twitter @seippolf or other platforms @justinmjoh
+# Welcome
+Hi, welcome to my GitHub page! I frequently update things on here, so thanks for stopping by.
 
-<!---
-seippolf/seippolf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# About Me
+I'm a Computer Science undergraduate student at the University of Arizona. In my free time I like watching Sci-Fi, Rubik's cubes,
+and working on personal projects such as [my website](http://justinmjoh.com).
+
+## Where to find me
+I can be found on [twitter](https://twitter.com/justinmjoh), [LinkedIn](https://www.linkedin.com/in/justinmjoh/), and if you're into recursion, [GitHub](https://github.com/seippolf).
+  
