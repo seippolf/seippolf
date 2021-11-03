@@ -6,5 +6,5 @@ I'm a Computer Science undergraduate student at the University of Arizona. In my
 and working on personal projects such as [my website](http://justinmjoh.com).
 
 ## Where to find me
-I can be found on [twitter](https://twitter.com/justinmjoh), [LinkedIn](https://www.linkedin.com/in/justinmjoh/), and if you're into recursion, [GitHub](https://github.com/seippolf).
+I can be found on [Twitter](https://twitter.com/justinmjoh), [LinkedIn](https://www.linkedin.com/in/justinmjoh/), and if you're into recursion, [GitHub](https://github.com/seippolf).
   
