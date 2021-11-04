@@ -10,8 +10,8 @@ I am versed in
 * Python
 * Web languages (JS, HTML, CSS)
 * NodeJs + frameworks
- * Express
- * Mongoose
+ - Express
+ - Mongoose
 * MongoDB
 
 ### Where To Find Me
