@@ -9,9 +9,11 @@ and working on personal projects such as [my website](http://justinmjoh.com).
 I am versed in
 * Python
 * Web languages (JS, HTML, CSS)
-* NodeJs + frameworks
- - Express
- - Mongoose
+  * jQuery
+  * AJAX
+* NodeJS + frameworks
+  * Express
+  * Mongoose
 * MongoDB
 
 ### Where To Find Me
