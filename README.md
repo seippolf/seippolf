@@ -6,7 +6,6 @@ I'm a Computer Science undergraduate student at the University of Arizona. In my
 and working on personal projects such as [my website](http://justinmjoh.com).
 
 ### Experience
-I am versed in
 * Python
 * Web languages (JS, HTML, CSS)
   * jQuery
@@ -15,6 +14,7 @@ I am versed in
   * Express
   * Mongoose
 * MongoDB
+* Laravel
 
 ### Where To Find Me
 I can be found on [Twitter](https://twitter.com/justinmjoh), [LinkedIn](https://www.linkedin.com/in/justinmjoh/), and if you're into recursion, [GitHub](https://github.com/seippolf).
