@@ -1,6 +1,6 @@
 # About Me
 I'm a Computer Science undergraduate student at the University of Arizona. In my free time I like watching Sci-Fi, Rubik's cubes,
-and working on personal projects such as [my website](http://justinmjoh.com).
+and working on personal projects.
 
 ### Experience
 * Python
